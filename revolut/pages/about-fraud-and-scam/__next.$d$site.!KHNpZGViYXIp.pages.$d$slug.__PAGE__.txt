@@ -1,0 +1,49 @@
+1:"$Sreact.fragment"
+2:I[22016,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js","/revolut-inventory/_next/static/chunks/1hwtnr39tz1k_.js","/revolut-inventory/_next/static/chunks/380vi2nnalsng.js","/revolut-inventory/_next/static/chunks/1mulh-svt-e_g.js","/revolut-inventory/_next/static/chunks/2hbmh89nar074.js","/revolut-inventory/_next/static/chunks/267d-cuc6qfdq.js","/revolut-inventory/_next/static/chunks/32jx_q4xm7nvo.js","/revolut-inventory/_next/static/chunks/0tpz1vfkz1dln.js","/revolut-inventory/_next/static/chunks/0lsmw1egzyo0g.js"],""]
+3:I[5014,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js","/revolut-inventory/_next/static/chunks/1hwtnr39tz1k_.js","/revolut-inventory/_next/static/chunks/380vi2nnalsng.js","/revolut-inventory/_next/static/chunks/1mulh-svt-e_g.js","/revolut-inventory/_next/static/chunks/2hbmh89nar074.js","/revolut-inventory/_next/static/chunks/267d-cuc6qfdq.js","/revolut-inventory/_next/static/chunks/32jx_q4xm7nvo.js","/revolut-inventory/_next/static/chunks/0tpz1vfkz1dln.js","/revolut-inventory/_next/static/chunks/0lsmw1egzyo0g.js"],"default"]
+4:Tcb5,
+<p><strong>URL:</strong> <code>/about-fraud-and-scam</code> (page title: "About fraud and scams | Revolut United Kingdom") · <strong>Occurrences:</strong> 1 page in this run</p>
+<p><img src="/revolut-inventory/assets/revolut/pages/about-fraud-and-scam/screenshot.webp" alt="Fraud and Scams Info Page screenshot"></p>
+<p>Customer education and trust page on fraud and scam prevention. It leads with quick-access help links for people who suspect a problem right now, then works through scam categories, a large stat on money saved, and resource links.</p>
+<h2 id="section-outline-top-to-bottom">Section outline (top to bottom)</h2>
+<ol>
+<li><strong><a href="../components/site-header-navigation.md">Site Header / Navigation</a></strong></li>
+<li><strong><a href="../components/image-caption-block.md">Image &#x26; Caption Block</a></strong>: "Staying safe from fraud and scams" headline over a photo of someone using a phone, under a "Keep your money secure" eyebrow.</li>
+<li><strong><a href="../components/faq-accordion.md">FAQ Accordion</a></strong>: "If you have an issue" accordion under a "Quick access" eyebrow, opening with "I've spotted a suspicious transaction".</li>
+<li><strong><a href="../components/text-feature-list.md">Text Feature List</a></strong>: "Fraud or scam?" two-column explainer, "What is fraud?" and "What is a scam?"</li>
+<li><strong><a href="../components/text-feature-list.md">Text Feature List</a></strong>: "Look for the signs" four cards, "Do you feel rushed?", "Is it out of the blue?", "Is it too good to be true?", "Are they pressuring you?"</li>
+<li><strong><a href="../components/image-caption-block.md">Image &#x26; Caption Block</a></strong>: "Saved in 2024 alone" stat block on a dark background reading "£632 million" in potentially fraudulent transactions blocked.</li>
+<li><strong><a href="../components/heading-led-content-block.md">Heading-Led Content Block</a></strong>: "All shapes, all sizes, all scams" grid of nine scam types, including purchase scams, investment scams, impersonation scams, job scams, romance scams, delivery scams, charity scams, rental scams, and triangle scams.</li>
+<li><strong><a href="../components/app-screenshot-feature-block.md">App Screenshot Feature Block</a></strong>: "Review, then recognise, or reject" on a dark background with a mock in-app payment confirmation screen.</li>
+<li><strong><a href="../components/feature-list-with-link.md">Feature List with Link</a></strong>: "Resources and tools" three cards, "Revolut Secure", "Help Centre", "Fraud 101".</li>
+<li><strong><a href="../components/feature-list-with-link.md">Feature List with Link</a></strong>: "Resources and tools" single card on the "Take five to stop fraud" campaign.</li>
+<li><strong><a href="../components/site-footer.md">Site Footer</a></strong></li>
+</ol>
+<h2 id="content-pattern">Content pattern</h2>
+<p>The page is structured for two different visitors at once: someone with an active problem gets the "Quick access" accordion right after the hero, while someone browsing for general awareness gets the scam category grid, the stat, and the resource cards further down. The dark-background stat and step panel break up an otherwise light page to mark the two most important trust signals.</p>9:X
+e:X
+e:C
+0:{"buildId":"cumvPyXXXsxZ933611pnE","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex gap-16","children":[["$","div",null,{"className":"min-w-0 flex-1","children":["$","article",null,{"className":"mx-auto max-w-3xl space-y-12","children":[["$","div",null,{"className":"flex items-center justify-between gap-4","children":[["$","h1",null,{"className":"text-2xl font-semibold tracking-tight text-foreground","children":"Fraud and Scams Info Page"}],["$","div",null,{"className":"inline-flex gap-2","children":[["$","$L2",null,{"href":"/revolut/pages","className":"flex size-8 items-center justify-center rounded-lg bg-accent text-foreground transition-colors hover:bg-[var(--border)]","aria-label":"Previous: Overview","children":["$","$L3",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-4"}]}],["$","$L2",null,{"href":"/revolut/pages/air-ai-by-revolut","className":"flex size-8 items-center justify-center rounded-lg bg-accent text-foreground transition-colors hover:bg-[var(--border)]","aria-label":"Next: AIR by Revolut Page","children":["$","$L3",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-4"}]}]]}]]}],["$","div",null,{"className":"prose prose-sm prose-neutral dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$4"}}]]}]}],"$L5"]}],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+13:I[66627,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js","/revolut-inventory/_next/static/chunks/1hwtnr39tz1k_.js","/revolut-inventory/_next/static/chunks/380vi2nnalsng.js","/revolut-inventory/_next/static/chunks/1mulh-svt-e_g.js","/revolut-inventory/_next/static/chunks/2hbmh89nar074.js","/revolut-inventory/_next/static/chunks/267d-cuc6qfdq.js","/revolut-inventory/_next/static/chunks/32jx_q4xm7nvo.js","/revolut-inventory/_next/static/chunks/0tpz1vfkz1dln.js","/revolut-inventory/_next/static/chunks/0lsmw1egzyo0g.js"],"TableOfContents"]
+14:I[97367,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:I[97367,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js"],"ViewportBoundary"]
+18:I[97367,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js"],"MetadataBoundary"]
+19:I[27201,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js"],"IconMark"]
+1a:I[39756,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js"],"default"]
+1b:I[37457,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js"],"default"]
+5:["$","aside",null,{"className":"hidden w-56 shrink-0 xl:block","children":["$","$L13",null,{"headings":[{"id":"section-outline-top-to-bottom","text":"Section outline (top to bottom)","level":2},{"id":"content-pattern","text":"Content pattern","level":2}]}]}]
+6:["$","script","script-0",{"src":"/revolut-inventory/_next/static/chunks/0lsmw1egzyo0g.js","async":true}]
+7:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+a:["$","$1","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L18",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Site Inventory"}],["$","meta","1",{"name":"description","content":"Component inventories generated from real sites."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/revolut-inventory/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L19","4",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+c:["$","$1","c",{"children":[null,["$","$L1a",null,{"parallelRouterKey":"children","template":["$","$L1b",null,{}]}]]}]
+f:["$","$1","c",{"children":[null,["$","$L1a",null,{"parallelRouterKey":"children","template":["$","$L1b",null,{}]}]]}]
+12:true
+16:null
+9:300
+9:C
+11:0
+b:"$undefined"
+d:"$undefined"
+10:"$undefined"
+8:"$undefined"

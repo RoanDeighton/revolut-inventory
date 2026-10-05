@@ -1,0 +1,52 @@
+1:"$Sreact.fragment"
+2:I[22016,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js","/revolut-inventory/_next/static/chunks/1hwtnr39tz1k_.js","/revolut-inventory/_next/static/chunks/380vi2nnalsng.js","/revolut-inventory/_next/static/chunks/1mulh-svt-e_g.js","/revolut-inventory/_next/static/chunks/2hbmh89nar074.js","/revolut-inventory/_next/static/chunks/267d-cuc6qfdq.js","/revolut-inventory/_next/static/chunks/32jx_q4xm7nvo.js","/revolut-inventory/_next/static/chunks/0tpz1vfkz1dln.js","/revolut-inventory/_next/static/chunks/0lsmw1egzyo0g.js"],""]
+3:I[5014,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js","/revolut-inventory/_next/static/chunks/1hwtnr39tz1k_.js","/revolut-inventory/_next/static/chunks/380vi2nnalsng.js","/revolut-inventory/_next/static/chunks/1mulh-svt-e_g.js","/revolut-inventory/_next/static/chunks/2hbmh89nar074.js","/revolut-inventory/_next/static/chunks/267d-cuc6qfdq.js","/revolut-inventory/_next/static/chunks/32jx_q4xm7nvo.js","/revolut-inventory/_next/static/chunks/0tpz1vfkz1dln.js","/revolut-inventory/_next/static/chunks/0lsmw1egzyo0g.js"],"default"]
+4:Td5a,
+<p><strong>URL:</strong> <code>/data-plans</code> (page title: "eSIM: What is an eSIM and how do I get one? | Revolut United Kingdom") · <strong>Occurrences:</strong> 1 page in this run</p>
+<p><img src="/revolut-inventory/assets/revolut/pages/data-plans/screenshot.webp" alt="eSIM Data Plans Page screenshot"></p>
+<p>A product page for Revolut's eSIM travel data plans. It covers what an eSIM is, which countries are covered, how setup works, and answers common questions before the standard plan comparison footer.</p>
+<h2 id="section-outline-top-to-bottom">Section outline (top to bottom)</h2>
+<ol>
+<li><strong><a href="../components/site-header-navigation.md">Site Header / Navigation</a></strong></li>
+<li><strong><a href="../components/product-page-intro-banner.md">Product Page Intro Banner</a></strong>: "Instant data, 150+ countries" with the line "Easy to set up. Available in 150+ countries."</li>
+<li><strong><a href="../components/centered-heading-cta-banner.md">Centered Heading CTA Banner</a></strong>: "Data plans for any itinerary" with a "View all destinations" link.</li>
+<li><strong><a href="../components/category-tab-selector.md">Category Tab Selector</a></strong>: "Local", "Regional", "Global" tabs.</li>
+<li><strong><a href="../components/trust-indicator-disclaimer-strip.md">Trust Indicator &#x26; Disclaimer Strip</a></strong>: pricing note, "top up from just £3.49 for 1 GB".</li>
+<li><strong><a href="../components/app-screenshot-feature-block.md">App Screenshot Feature Block</a></strong>: destination cards for "United States", "United Kingdom", "Türkiye".</li>
+<li><strong><a href="../components/feature-promo-block.md">Feature Promo Block</a></strong>: "3 GB a month, included with Ultra".</li>
+<li><strong><a href="../components/feature-list-with-link.md">Feature List with Link</a></strong>: "Simple setup" in three numbered steps, "Check that your device is eSIM-compatible", "Follow the installation instructions", "Activate your eSIM".</li>
+<li><strong><a href="../components/feature-promo-block.md">Feature Promo Block</a></strong>: "Stay in touch with 24/7 support" over a night sky photo with an in-app chat screenshot.</li>
+<li><strong><a href="../components/text-feature-list.md">Text Feature List</a></strong>: "FAQs" list, starting with "What is an eSIM?".</li>
+<li><strong><a href="../components/trust-indicator-disclaimer-strip.md">Trust Indicator &#x26; Disclaimer Strip</a></strong>: notes that Revolut Ltd acts as agent for 1GLOBAL, the eSIM plan provider.</li>
+<li><strong><a href="../components/site-footer.md">Site Footer</a></strong></li>
+</ol>
+<h2 id="content-pattern">Content pattern</h2>
+<p>The page moves from persuasion to logistics to reassurance: sell the coverage and the Ultra-plan freebie first, then walk through setup in three steps, then close any doubts with support availability and an FAQ list. The dual legal disclaimers separate pricing caveats (mid-page) from the underlying-provider disclosure (end of page).</p>
+<h2 id="variants-observed">Variants observed</h2>
+<p>The "FAQs" block (<code>main>10</code>) is mapped to the "Feature Summary Cards" component, but the screenshot shows a plain collapsible accordion list with plus/expand icons, matching the site's <code>faq-accordion</code> component elsewhere rather than a card layout. Flagging this since the outline data's componentTitle/componentSlug were used verbatim as instructed.</p>9:X
+e:X
+e:C
+0:{"buildId":"cumvPyXXXsxZ933611pnE","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex gap-16","children":[["$","div",null,{"className":"min-w-0 flex-1","children":["$","article",null,{"className":"mx-auto max-w-3xl space-y-12","children":[["$","div",null,{"className":"flex items-center justify-between gap-4","children":[["$","h1",null,{"className":"text-2xl font-semibold tracking-tight text-foreground","children":"eSIM Data Plans Page"}],["$","div",null,{"className":"inline-flex gap-2","children":[["$","$L2",null,{"href":"/revolut/pages/customer-vulnerability","className":"flex size-8 items-center justify-center rounded-lg bg-accent text-foreground transition-colors hover:bg-[var(--border)]","aria-label":"Previous: Customer Vulnerability Page","children":["$","$L3",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-4"}]}],["$","$L2",null,{"href":"/revolut/pages/discover-our-company","className":"flex size-8 items-center justify-center rounded-lg bg-accent text-foreground transition-colors hover:bg-[var(--border)]","aria-label":"Next: About Us Page","children":["$","$L3",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-4"}]}]]}]]}],["$","div",null,{"className":"prose prose-sm prose-neutral dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$4"}}]]}]}],"$L5"]}],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+13:I[66627,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js","/revolut-inventory/_next/static/chunks/1hwtnr39tz1k_.js","/revolut-inventory/_next/static/chunks/380vi2nnalsng.js","/revolut-inventory/_next/static/chunks/1mulh-svt-e_g.js","/revolut-inventory/_next/static/chunks/2hbmh89nar074.js","/revolut-inventory/_next/static/chunks/267d-cuc6qfdq.js","/revolut-inventory/_next/static/chunks/32jx_q4xm7nvo.js","/revolut-inventory/_next/static/chunks/0tpz1vfkz1dln.js","/revolut-inventory/_next/static/chunks/0lsmw1egzyo0g.js"],"TableOfContents"]
+14:I[97367,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:I[97367,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js"],"ViewportBoundary"]
+18:I[97367,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js"],"MetadataBoundary"]
+19:I[27201,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js"],"IconMark"]
+1a:I[39756,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js"],"default"]
+1b:I[37457,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js"],"default"]
+5:["$","aside",null,{"className":"hidden w-56 shrink-0 xl:block","children":["$","$L13",null,{"headings":[{"id":"section-outline-top-to-bottom","text":"Section outline (top to bottom)","level":2},{"id":"content-pattern","text":"Content pattern","level":2},{"id":"variants-observed","text":"Variants observed","level":2}]}]}]
+6:["$","script","script-0",{"src":"/revolut-inventory/_next/static/chunks/0lsmw1egzyo0g.js","async":true}]
+7:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+a:["$","$1","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L18",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Site Inventory"}],["$","meta","1",{"name":"description","content":"Component inventories generated from real sites."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/revolut-inventory/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L19","4",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+c:["$","$1","c",{"children":[null,["$","$L1a",null,{"parallelRouterKey":"children","template":["$","$L1b",null,{}]}]]}]
+f:["$","$1","c",{"children":[null,["$","$L1a",null,{"parallelRouterKey":"children","template":["$","$L1b",null,{}]}]]}]
+12:true
+16:null
+9:300
+9:C
+11:0
+b:"$undefined"
+d:"$undefined"
+10:"$undefined"
+8:"$undefined"

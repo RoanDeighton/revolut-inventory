@@ -1,0 +1,39 @@
+1:"$Sreact.fragment"
+2:I[22016,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js","/revolut-inventory/_next/static/chunks/1hwtnr39tz1k_.js","/revolut-inventory/_next/static/chunks/380vi2nnalsng.js","/revolut-inventory/_next/static/chunks/1mulh-svt-e_g.js","/revolut-inventory/_next/static/chunks/2hbmh89nar074.js","/revolut-inventory/_next/static/chunks/267d-cuc6qfdq.js","/revolut-inventory/_next/static/chunks/32jx_q4xm7nvo.js","/revolut-inventory/_next/static/chunks/0tpz1vfkz1dln.js","/revolut-inventory/_next/static/chunks/0lsmw1egzyo0g.js"],""]
+3:I[5014,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js","/revolut-inventory/_next/static/chunks/1hwtnr39tz1k_.js","/revolut-inventory/_next/static/chunks/380vi2nnalsng.js","/revolut-inventory/_next/static/chunks/1mulh-svt-e_g.js","/revolut-inventory/_next/static/chunks/2hbmh89nar074.js","/revolut-inventory/_next/static/chunks/267d-cuc6qfdq.js","/revolut-inventory/_next/static/chunks/32jx_q4xm7nvo.js","/revolut-inventory/_next/static/chunks/0tpz1vfkz1dln.js","/revolut-inventory/_next/static/chunks/0lsmw1egzyo0g.js"],"default"]
+5:I[66627,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js","/revolut-inventory/_next/static/chunks/1hwtnr39tz1k_.js","/revolut-inventory/_next/static/chunks/380vi2nnalsng.js","/revolut-inventory/_next/static/chunks/1mulh-svt-e_g.js","/revolut-inventory/_next/static/chunks/2hbmh89nar074.js","/revolut-inventory/_next/static/chunks/267d-cuc6qfdq.js","/revolut-inventory/_next/static/chunks/32jx_q4xm7nvo.js","/revolut-inventory/_next/static/chunks/0tpz1vfkz1dln.js","/revolut-inventory/_next/static/chunks/0lsmw1egzyo0g.js"],"TableOfContents"]
+6:I[97367,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+4:T6d5,
+<p><strong>URL:</strong> <code>/legal/clearbank-fscs-information-sheet</code> (page title: "ClearBank FSCS Information Sheet | Revolut United Kingdom") · <strong>Occurrences:</strong> 1 page in this run</p>
+<p><img src="/revolut-inventory/assets/revolut/pages/legal-clearbank-fscs-information-sheet/screenshot.webp" alt="ClearBank FSCS Information Sheet Page screenshot"></p>
+<p>A deposit-protection disclosure for ClearBank, the partner bank behind some Revolut accounts, published under the same stripped-down legal page template used across <code>/legal/*</code>.</p>
+<h2 id="section-outline-top-to-bottom">Section outline (top to bottom)</h2>
+<ol>
+<li><strong><a href="../components/site-header-legal-pages.md">Site Header - Legal Pages</a></strong></li>
+<li><strong><a href="../components/legal-document-viewer.md">Legal Document Viewer</a></strong>: "Terms &#x26; Policies" eyebrow, title "ClearBank FSCS Information Sheet", with a "Download PDF" button and version history.</li>
+<li><strong><a href="../components/faq-accordion.md">FAQ Accordion</a></strong>: on this page the same structural fingerprint as the FAQ widget is used for the document's own body text, explaining the £120,000 FSCS deposit protection limit for ClearBank, alongside the Clear.Bank partner logo and a purple "PROTECTED" badge, not a real FAQ.</li>
+<li><strong><a href="../components/legal-page-footer.md">Legal Page Footer</a></strong></li>
+</ol>
+<h2 id="content-pattern">Content pattern</h2>
+<p>Same single-document shell as the other legal pages, but built around a specific banking partner rather than a full contract or disclosure. The partner logo and protection badge carry more of the trust-building weight here than in the plain-text legal documents.</p>a:X
+f:X
+f:C
+0:{"buildId":"cumvPyXXXsxZ933611pnE","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex gap-16","children":[["$","div",null,{"className":"min-w-0 flex-1","children":["$","article",null,{"className":"mx-auto max-w-3xl space-y-12","children":[["$","div",null,{"className":"flex items-center justify-between gap-4","children":[["$","h1",null,{"className":"text-2xl font-semibold tracking-tight text-foreground","children":"ClearBank FSCS Information Sheet Page"}],["$","div",null,{"className":"inline-flex gap-2","children":[["$","$L2",null,{"href":"/revolut/pages/joint-accounts","className":"flex size-8 items-center justify-center rounded-lg bg-accent text-foreground transition-colors hover:bg-[var(--border)]","aria-label":"Previous: Joint Accounts Page","children":["$","$L3",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-4"}]}],["$","$L2",null,{"href":"/revolut/pages/legal-collinson-lounges","className":"flex size-8 items-center justify-center rounded-lg bg-accent text-foreground transition-colors hover:bg-[var(--border)]","aria-label":"Next: Airport Lounge Passes Page","children":["$","$L3",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-4"}]}]]}]]}],["$","div",null,{"className":"prose prose-sm prose-neutral dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$4"}}]]}]}],["$","aside",null,{"className":"hidden w-56 shrink-0 xl:block","children":["$","$L5",null,{"headings":[{"id":"section-outline-top-to-bottom","text":"Section outline (top to bottom)","level":2},{"id":"content-pattern","text":"Content pattern","level":2}]}]}]]}],[["$","script","script-0",{"src":"/revolut-inventory/_next/static/chunks/0lsmw1egzyo0g.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":"$Lb","isPartial":"$@c","staleTime":"$a","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$a","varyParams":"$f"},{"rsc":"$L10","isPartial":"$@11","staleTime":"$a","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@12","rootVaryParams":null,"needsRuntimeRequest":"$@13"}
+14:I[97367,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js"],"ViewportBoundary"]
+15:I[97367,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js"],"MetadataBoundary"]
+16:I[27201,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js"],"IconMark"]
+17:I[39756,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js"],"default"]
+18:I[37457,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js"],"default"]
+8:null
+b:["$","$1","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L15",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Site Inventory"}],["$","meta","1",{"name":"description","content":"Component inventories generated from real sites."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/revolut-inventory/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L16","4",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","$1","c",{"children":[null,["$","$L17",null,{"parallelRouterKey":"children","template":["$","$L18",null,{}]}]]}]
+10:["$","$1","c",{"children":[null,["$","$L17",null,{"parallelRouterKey":"children","template":["$","$L18",null,{}]}]]}]
+13:true
+a:300
+a:C
+12:0
+c:"$undefined"
+e:"$undefined"
+11:"$undefined"
+9:"$undefined"

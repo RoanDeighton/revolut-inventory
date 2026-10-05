@@ -1,0 +1,57 @@
+1:"$Sreact.fragment"
+2:I[22016,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js","/revolut-inventory/_next/static/chunks/1hwtnr39tz1k_.js","/revolut-inventory/_next/static/chunks/380vi2nnalsng.js","/revolut-inventory/_next/static/chunks/1mulh-svt-e_g.js","/revolut-inventory/_next/static/chunks/2hbmh89nar074.js","/revolut-inventory/_next/static/chunks/267d-cuc6qfdq.js","/revolut-inventory/_next/static/chunks/32jx_q4xm7nvo.js","/revolut-inventory/_next/static/chunks/0tpz1vfkz1dln.js","/revolut-inventory/_next/static/chunks/0lsmw1egzyo0g.js"],""]
+3:I[5014,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js","/revolut-inventory/_next/static/chunks/1hwtnr39tz1k_.js","/revolut-inventory/_next/static/chunks/380vi2nnalsng.js","/revolut-inventory/_next/static/chunks/1mulh-svt-e_g.js","/revolut-inventory/_next/static/chunks/2hbmh89nar074.js","/revolut-inventory/_next/static/chunks/267d-cuc6qfdq.js","/revolut-inventory/_next/static/chunks/32jx_q4xm7nvo.js","/revolut-inventory/_next/static/chunks/0tpz1vfkz1dln.js","/revolut-inventory/_next/static/chunks/0lsmw1egzyo0g.js"],"default"]
+4:T1313,
+<p><strong>URL:</strong> <code>/money-transfer/large-amounts</code> (page title: "Large money transfer | How to transfer large amounts of money online") · <strong>Occurrences:</strong> 1 page in this run</p>
+<p><img src="/revolut-inventory/assets/revolut/pages/money-transfer-large-amounts/screenshot.webp" alt="Large Money Transfer Page screenshot"></p>
+<p>A product landing page aimed at customers sending high-value international transfers. It combines a currency converter tool with fee comparisons, security messaging, a how-to guide, and an FAQ to make the case for using Revolut over a bank or other provider.</p>
+<h2 id="section-outline-top-to-bottom">Section outline (top to bottom)</h2>
+<ol>
+<li><strong><a href="../components/site-header-navigation.md">Site Header / Navigation</a></strong></li>
+<li><strong><a href="../components/provider-rate-comparison-calculator.md">Provider Rate Comparison Calculator</a></strong>: "Transferring large amounts of money?" headline over a converter showing an £80,000 GBP transfer.</li>
+<li><strong><a href="../components/disclaimer-block-with-linked-terms.md">Disclaimer Block with Linked Terms</a></strong>: "Exchange and remittance fees, fair usage limits, and T&#x26;Cs apply."</li>
+<li><strong><a href="../components/feature-card-row.md">Feature Card Row</a></strong>: "Why use Revolut for large money transfers?" with four cards: full-stack security, competitive exchange rates, low fees, 24/7 support.</li>
+<li><strong><a href="../components/provider-rate-comparison-calculator.md">Provider Rate Comparison Calculator</a></strong>: "Clear fees and competitive rates." Compares sending £80,000 GBP to PLN across providers, with Revolut marked as the cheapest.</li>
+<li><strong><a href="../components/app-store-rating-panel.md">App Store Rating Panel</a></strong>: "Make large money transfers securely in one app," showing a 4.9/5 App Store and 4.7/5 Google Play rating.</li>
+<li><strong><a href="../components/section-intro.md">Section Intro</a></strong>: "Send large money transfers with great exchange rates and low fees"</li>
+<li><strong><a href="../components/text-feature-list.md">Text Feature List</a></strong>: "No additional exchange fees on weekdays"</li>
+<li><strong><a href="../components/text-feature-list.md">Text Feature List</a></strong>: "Save on international transfer fees"</li>
+<li><strong><a href="../components/section-intro.md">Section Intro</a></strong>: "How to transfer large amounts of money with Revolut"</li>
+<li><strong><a href="../components/app-screenshot-feature-block.md">App Screenshot Feature Block</a></strong>: three-step walkthrough, "1. Get Revolut," "2. Add money," "3. Transfer money."</li>
+<li><strong><a href="../components/feature-promo-block.md">Feature Promo Block</a></strong>: "Transferring large amounts of money between banks in the UK?" References the CHAPS (Clearing House Automated Payment System) transfer method.</li>
+<li><strong><a href="../components/image-caption-block.md">Image &#x26; Caption Block</a></strong>: "How we keep your large money transfer safe"</li>
+<li><strong><a href="../components/text-feature-list.md">Text Feature List</a></strong>: "Fraud prevention team," citing over £632 million in potential fraud prevented, alongside a "24/7 customer support" card.</li>
+<li><strong><a href="../components/text-feature-list.md">Text Feature List</a></strong>: "Tips for transferring large sums of money," covering tracking a transfer, double-checking recipient details, and checking exchange rates and fees.</li>
+<li><strong><a href="../components/text-feature-list.md">Text Feature List</a></strong>: "So many reasons to make large money transfers with Revolut," with use cases: support family, transfer a salary, purchase a house, invest in a business, pay for a destination wedding, move abroad.</li>
+<li><strong><a href="../components/feature-promo-block.md">Feature Promo Block</a></strong>: "See why 80+ million global customers choose Revolut"</li>
+<li><strong><a href="../components/single-page-faq-list.md">Single-Page FAQ List</a></strong>: "Large money transfer FAQs," including "What are the limits for sending large amounts of money?"</li>
+<li><strong><a href="../components/site-footer.md">Site Footer</a></strong></li>
+</ol>
+<h2 id="content-pattern">Content pattern</h2>
+<p>The page opens with a task-oriented tool (the converter hero) so a visitor can see a real transfer amount and rate before reading anything else. From there it stacks trust and value signals in short bursts: a fee comparison table, app store ratings, and paired feature cards, each making one narrow claim rather than a single long pitch. The back half shifts from selling to explaining, with a numbered how-to guide, a security and fraud-prevention section, a set of large-transfer use cases, and an FAQ, before handing off to the standard footer plan comparison.</p>9:X
+e:X
+e:C
+0:{"buildId":"cumvPyXXXsxZ933611pnE","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex gap-16","children":[["$","div",null,{"className":"min-w-0 flex-1","children":["$","article",null,{"className":"mx-auto max-w-3xl space-y-12","children":[["$","div",null,{"className":"flex items-center justify-between gap-4","children":[["$","h1",null,{"className":"text-2xl font-semibold tracking-tight text-foreground","children":"Large Money Transfer Page"}],["$","div",null,{"className":"inline-flex gap-2","children":[["$","$L2",null,{"href":"/revolut/pages/mobile-plans","className":"flex size-8 items-center justify-center rounded-lg bg-accent text-foreground transition-colors hover:bg-[var(--border)]","aria-label":"Previous: Mobile Plans Product Page","children":["$","$L3",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-4"}]}],["$","$L2",null,{"href":"/revolut/pages/money-transfer-send-money-to-the-uk-from-india","className":"flex size-8 items-center justify-center rounded-lg bg-accent text-foreground transition-colors hover:bg-[var(--border)]","aria-label":"Next: Send Money to the UK from India Page","children":["$","$L3",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-4"}]}]]}]]}],["$","div",null,{"className":"prose prose-sm prose-neutral dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$4"}}]]}]}],"$L5"]}],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+13:I[66627,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js","/revolut-inventory/_next/static/chunks/1hwtnr39tz1k_.js","/revolut-inventory/_next/static/chunks/380vi2nnalsng.js","/revolut-inventory/_next/static/chunks/1mulh-svt-e_g.js","/revolut-inventory/_next/static/chunks/2hbmh89nar074.js","/revolut-inventory/_next/static/chunks/267d-cuc6qfdq.js","/revolut-inventory/_next/static/chunks/32jx_q4xm7nvo.js","/revolut-inventory/_next/static/chunks/0tpz1vfkz1dln.js","/revolut-inventory/_next/static/chunks/0lsmw1egzyo0g.js"],"TableOfContents"]
+14:I[97367,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:I[97367,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js"],"ViewportBoundary"]
+18:I[97367,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js"],"MetadataBoundary"]
+19:I[27201,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js"],"IconMark"]
+1a:I[39756,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js"],"default"]
+1b:I[37457,["/revolut-inventory/_next/static/chunks/18_6mh4fg-mm8.js"],"default"]
+5:["$","aside",null,{"className":"hidden w-56 shrink-0 xl:block","children":["$","$L13",null,{"headings":[{"id":"section-outline-top-to-bottom","text":"Section outline (top to bottom)","level":2},{"id":"content-pattern","text":"Content pattern","level":2}]}]}]
+6:["$","script","script-0",{"src":"/revolut-inventory/_next/static/chunks/0lsmw1egzyo0g.js","async":true}]
+7:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+a:["$","$1","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L18",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Site Inventory"}],["$","meta","1",{"name":"description","content":"Component inventories generated from real sites."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/revolut-inventory/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L19","4",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+c:["$","$1","c",{"children":[null,["$","$L1a",null,{"parallelRouterKey":"children","template":["$","$L1b",null,{}]}]]}]
+f:["$","$1","c",{"children":[null,["$","$L1a",null,{"parallelRouterKey":"children","template":["$","$L1b",null,{}]}]]}]
+12:true
+16:null
+9:300
+9:C
+11:0
+b:"$undefined"
+d:"$undefined"
+10:"$undefined"
+8:"$undefined"
